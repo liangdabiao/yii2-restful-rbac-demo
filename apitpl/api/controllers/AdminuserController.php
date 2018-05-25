@@ -12,22 +12,6 @@ class AdminuserController extends ActiveController
     public $modelClass = 'common\models\Adminuser';
     
     
-    /*public function behaviors()
-    {
-        $behaviors = parent::behaviors();
-
-        $behaviors['authenticator'] = [
-            'class' => CompositeAuth::class,
-            'authMethods' => [
-                HttpBasicAuth::class,
-                HttpBearerAuth::class,
-                HttpHeaderAuth::class,
-                QueryParamAuth::class
-            ]
-        ];
-
-        return $behaviors;
-    }*/
 
     public function actionLogin()
     {
