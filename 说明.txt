@@ -1,0 +1,10 @@
+账号密码：
+weixi 123456
+
+postman 例子  https://documenter.getpostman.com/view/370763/wms/RW8Ao8uG#39d18e0d-42dc-444b-bd5f-ba88fdfd1458
+
+
+
+
+note：
+http://www.yiichina.com/topic/7132 无法从header中获取Authorization参数 问题解决方法
